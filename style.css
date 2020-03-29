@@ -37,6 +37,25 @@ h4 {
   
 }
 
+.general-img {
+    margin-bottom: 30px;
+    width:80%
+}
+
+.rotate-180 {
+    transform: rotate(180deg);
+}
+
+.rotate-90 {
+    transform: rotate(90deg);
+}
+
+.milkdud {
+    width: 80%;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
 #welcome-info {
 
 }
@@ -62,8 +81,4 @@ h4 {
 
 .container {
     padding-bottom: 200px;
-}
-
-.home-image {
-
 }
